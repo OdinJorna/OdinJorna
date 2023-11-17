@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @OdinJorna
-- 👀 I’m interested in learning to code and anything TiddlyWiki
-- 🌱 I’m currently learning JavaScript
 - 💞️ Check out my recipe plugin for TiddlyWiki
 
 <!---
